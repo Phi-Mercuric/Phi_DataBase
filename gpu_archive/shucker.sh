@@ -6,7 +6,7 @@
 
 echo '( BACKUP FILE )' >> ~/Phi_DataBase/gpu_archive/roi_list.csv
 
-mv ~/Phi_DataBase/gpu_archive/roi_list.txt ~/Phi_DataBase/gpu_archive/.roi_list_bkp.csv
+mv ~/Phi_DataBase/gpu_archive/roi_list.csv ~/Phi_DataBase/gpu_archive/.roi_list_bkp.csv
 
 for i in {1..39}; do
 	line=`cat ~/Phi_DataBase/gpu_archive/gpu_format.txt|head -n $i|tail -n 1`
