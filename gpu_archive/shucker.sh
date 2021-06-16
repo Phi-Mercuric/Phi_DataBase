@@ -16,7 +16,7 @@ for i in {1..39}; do
 		if [[ $value -lt 50 ]]; then
 			value="3390"
 		elif [[ $value -gt 1000 ]]; then
-			value="replace"
+			value="3390"
 		fi
 		line+=,"$value"
 		
