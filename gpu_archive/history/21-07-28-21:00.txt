@@ -1,0 +1,289 @@
+Starting...
+. . .
+/- GeForce_GTX_1050_Ti :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1050+Ti+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $240
+| average $/day		 $0.51 
+| average ROI		 ~470 days
+| good/fake deals	 $199:390d, $206:403d, $215:421d, $210:411d, $199:390d, $199:390d, $200:392d, $189:370d, 
+
+/- GeForce_GTX_1060_6GB :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1060+6GB+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $316
+| average $/day		 $1.32 
+| average ROI		 ~239 days
+| good/fake deals	 $275:208d, $269:203d, $279:211d, $279:211d, $275:208d, $280:212d, 
+
+/- GeForce_GTX_1070 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1070+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $403
+| average $/day		 $1.60 
+| average ROI		 ~251 days
+| good/fake deals	 $340:212d, $350:218d, $360:225d, $350:218d, $360:225d, $340:212d, $345:215d, 
+
+/- GeForce_GTX_1070_Ti :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1070+Ti+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $491
+| average $/day		 $1.71 
+| average ROI		 ~287 days
+| good/fake deals	 $419:245d, $420:245d, $415:242d, $399:233d, $429:250d, 
+
+/- GeForce_GTX_1080 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1080+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $573
+| average $/day		 $1.92 
+| average ROI		 ~298 days
+| good/fake deals	 $359:186d, $459:239d, $500:260d, $459:239d, $439:228d, $489:254d, $500:260d, $499:259d, $455:236d, $450:234d, $500:260d, $449:233d, $499:259d, 
+
+/- GeForce_GTX_1080_Ti :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1080+Ti+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $703
+| average $/day		 $2.39 
+| average ROI		 ~294 days
+| good/fake deals	 $599:250d, $587:245d, $450:188d, $600:251d, $620:259d, $600:251d, 
+
+/- GeForce_GTX_1660 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1660+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $469
+| average $/day		 $1.38 
+| average ROI		 ~339 days
+| good/fake deals	 $349:252d, $417:302d, $399:289d, $395:286d, $380:275d, 
+
+/- GeForce_GTX_1660_Super :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1660+Super+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $498
+| average $/day		 $1.79 
+| average ROI		 ~278 days
+| good/fake deals	 $440:245d, $425:237d, $439:245d, $399:222d, 
+
+/- GeForce_GTX_1660_Ti :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+GTX+1660+Ti+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $543
+| average $/day		 $1.72 
+| average ROI		 ~315 days
+| good/fake deals	 $430:250d, $479:278d, $459:266d, $450:261d, $450:261d, $439:255d, $459:266d, $469:272d, $460:267d, 
+
+/- GeForce_RTX_2060 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2060+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $590
+| average $/day		 $1.88 
+| average ROI		 ~313 days
+| good/fake deals	 $529:281d, $530:281d, $429:228d, $500:265d, $509:270d, $529:281d, $500:265d, 
+
+/- GeForce_RTX_2060_Super_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2060+Super++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $693
+| average $/day		 $2.40 
+| average ROI		 ~288 days
+| good/fake deals	 $589:245d, $599:249d, $614:255d, 
+
+/- GeForce_RTX_2070 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2070+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $699
+| average $/day		 $2.40 
+| average ROI		 ~291 days
+| good/fake deals	 $619:257d, $550:229d, $620:258d, $599:249d, 
+
+/- GeForce_RTX_2070_Super_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2070+Super++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $746
+| average $/day		 $2.40 
+| average ROI		 ~310 days
+| good/fake deals	 $649:270d, 
+
+/- GeForce_RTX_2080 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2080+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $977
+| average $/day		 $2.72 
+| average ROI		 ~359 days
+| good/fake deals	 $690:253d, $799:293d, $718:263d, $815:299d, $795:292d, $875:321d, $700:257d, 
+
+/- GeForce_RTX_2080_Super_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2080+Super++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $955
+| average $/day		 $2.42 
+| average ROI		 ~394 days
+| good/fake deals	 $799:330d, $815:336d, $829:342d, 
+
+/- GeForce_RTX_2080_Ti :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+2080+Ti+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1207
+| average $/day		 $3.76 
+| average ROI		 ~321 days
+| good/fake deals	 $949:252d, $949:252d, $989:263d, $958:254d, $1079:286d, $1000:265d, $999:265d, $1059:281d, 
+
+/- GeForce_RTX_3060 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3060+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $792
+| average $/day		 $2.27 
+| average ROI		 ~348 days
+| good/fake deals	 $700:308d, $648:285d, $695:306d, $679:299d, $700:308d, $689:303d, $704:310d, $705:310d, 
+
+/- GeForce_RTX_3060_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3060++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $792
+| average $/day		 $3.2 
+| average ROI		 ~262 days
+| good/fake deals	 $700:231d, $648:214d, $695:230d, $679:224d, $700:231d, $689:228d, $704:233d, $705:233d, 
+
+/- GeForce_RTX_3060_Ti :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3060+Ti+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1009
+| average $/day		 $3.67 
+| average ROI		 ~274 days
+| good/fake deals	 $890:242d, $899:244d, $875:238d, $825:224d, $880:239d, $849:231d, $899:244d, $870:237d, $895:243d, $870:237d, $900:245d, $399:108d, $899:244d, 
+
+/- GeForce_RTX_3070 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3070+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1136
+| average $/day		 $3.67 
+| average ROI		 ~309 days
+| good/fake deals	 $1000:272d, $1000:272d, $980:267d, $1000:272d, $1000:272d, $999:272d, 
+
+/- GeForce_RTX_3070_Ti_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3070+Ti++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1160
+| average $/day		 $3.43 
+| average ROI		 ~338 days
+| good/fake deals	 $1000:291d, $1000:291d, $1025:298d, 
+
+/- GeForce_RTX_3080 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3080+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1767
+| average $/day		 $5.71 
+| average ROI		 ~309 days
+| good/fake deals	 $1540:269d, $1550:271d, $1549:271d, $1519:266d, $1550:271d, $1580:276d, $1550:271d, 
+
+/- GeForce_RTX_3080_Ti_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3080+Ti++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1954
+| average $/day		 $4.44 
+| average ROI		 ~440 days
+| good/fake deals	 $1748:393d, $1750:394d, $1624:365d, 
+
+/- GeForce_RTX_3090 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=GeForce+RTX+3090+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $2694
+| average $/day		 $7.4 
+| average ROI		 ~382 days
+| good/fake deals	 $2199:312d, $2399:340d, $2200:312d, $2200:312d, $2399:340d, $2159:306d, $1889:268d, $2400:340d, $2359:335d, $2300:326d, 
+
+/- Radeon_R9_380_4GB :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+R9+380+4GB+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $243
+| average $/day		 $0.51 
+| average ROI		 ~476 days
+| good/fake deals	 $199:390d, $175:343d, $200:392d, $210:411d, $190:372d, 
+
+/- Radeon_R9_Fury :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+R9+Fury+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $339
+| average $/day		 $1.22 
+| average ROI		 ~277 days
+| good/fake deals	 $280:229d, $300:245d, $299:245d, $199:163d, 
+
+/- Radeon_RX_470_4GB :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+470+4GB+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $227
+| average $/day		 $1.6 
+| average ROI		 ~214 days
+| good/fake deals	 $195:183d, $200:188d, 
+
+/- Radeon_RX_480_8GB :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+480+8GB+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $370
+| average $/day		 $1.72 
+| average ROI		 ~215 days
+| good/fake deals	 $325:188d, $325:188d, 
+
+/- Radeon_RX_5500_XT_8GB_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+5500+XT+8GB++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $534
+| average $/day		 $1.56 
+| average ROI		 ~342 days
+| good/fake deals	 $399:255d, $399:255d, $475:304d, $476:305d, $442:283d, 
+
+/- Radeon_RX_5600_XT :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+5600+XT+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $700
+| average $/day		 $2.51 
+| average ROI		 ~278 days
+| good/fake deals	 $600:239d, $619:246d, $600:239d, 
+
+/- Radeon_RX_5700 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+5700+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $798
+| average $/day		 $3.45 
+| average ROI		 ~231 days
+| good/fake deals	 $430:124d, $430:124d, $430:124d, 
+
+/- Radeon_RX_5700_XT :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+5700+XT+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $805
+| average $/day		 $3.45 
+| average ROI		 ~233 days
+| good/fake deals	 $430:124d, $430:124d, $430:124d, 
+
+/- Radeon_RX_570_4GB :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+570+4GB+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $282
+| average $/day		 $1.10 
+| average ROI		 ~256 days
+| good/fake deals	 $219:199d, $238:216d, $250:227d, $225:204d, $237:215d, $249:226d, $229:208d, $250:227d, 
+
+/- Radeon_RX_580_8GB :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+580+8GB+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $423
+| average $/day		 $1.78 
+| average ROI		 ~237 days
+| good/fake deals	 $345:193d, $349:196d, $359:201d, $349:196d, $375:210d, $375:210d, $344:193d, $355:199d, $375:210d, $345:193d, $350:196d, 
+
+/- Radeon_RX_6700_XT :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+6700+XT+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $936
+| average $/day		 $2.95 
+| average ROI		 ~317 days
+| good/fake deals	 $775:262d, $750:254d, $730:247d, $700:237d, $799:270d, $828:280d, $800:271d, $800:271d, $750:254d, $760:257d, $789:267d, $789:267d, 
+
+/- Radeon_RX_6800 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+6800+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1345
+| average $/day		 $4.2 
+| average ROI		 ~334 days
+| good/fake deals	 $1139:283d, $1149:285d, $1129:280d, $1100:273d, $1150:286d, $650:161d, $1200:298d, 
+
+/- Radeon_RX_6800_XT :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+6800+XT+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1503
+| average $/day		 $4.2 
+| average ROI		 ~373 days
+| good/fake deals	 $1250:310d, $1249:310d, $1299:323d, $1275:317d, $650:161d, $1300:323d, $1350:335d, $1350:335d, $1100:273d, $1349:335d, 
+
+/- Radeon_RX_6900_XT_ :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+6900+XT++-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1912
+| average $/day		 $4.2 
+| average ROI		 ~475 days
+| good/fake deals	 $1700:422d, $1399:348d, $1350:335d, $1650:410d, $1599:397d, $1321:328d, 
+
+/- Radeon_RX_Vega_56 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+Vega+56+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $761
+| average $/day		 $2.95 
+| average ROI		 ~257 days
+| good/fake deals	 $625:211d, $435:147d, 
+
+/- Radeon_RX_Vega_64 :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+RX+Vega+64+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $744
+| average $/day		 $2.97 
+| average ROI		 ~250 days
+| good/fake deals	 $625:210d, $399:134d, $299:100d, $599:201d, $650:218d, 
+
+/- Radeon_VII :
+| link			 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Radeon+VII+-parts+-non+-not+-box+-chip&_sacat=0&LH_TitleDesc=1&_ftrt=901&_ipg=25&LH_ItemCondition=1000%7C1500%7C2000%7C2500%7C3000&_dmd=1&_stpos=24201&LH_BIN=1&_odkw=+-parts+-non+-not+-box+-chip&_osacat=0&_sop=12&_ftrv=1&_sadis=15
+| average cost		 $1733
+| average $/day		 $5.89 
+| average ROI		 ~294 days
+| good/fake deals	 $1390:235d, $1500:254d, 
+
